@@ -1,0 +1,97 @@
+p {
+
+}
+
+body {
+	text-align: center;
+	vertical-align: center;
+	font-family: Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+
+}
+header {
+
+}
+.alt-body {
+	text-align: center;
+	vertical-align: center;
+	font-family: Helvetica, sans-serif;
+	font-size: 12px;
+	color: #ffffff;
+
+}
+.name-header {
+	font: Helvetica, sans-serif;
+	font-size: 26px;
+  	color: #ffffff;
+  	text-shadow: 4px 4px 0px rgba(0,0,0,0.1);
+}
+.section-title {
+	font: Helvetica, sans-serif;
+	font-size: 26px;
+  	color: #ffffff;
+	text-shadow: 0px 2px 3px #555;
+
+}
+
+.nav-list {
+	font-family: Helvetica, sans-serif;
+	font-size: 14px;
+	color: #000000;
+}
+.nav-links {
+	font-family: Helvetica, sans-serif;
+	font-size: 14px;
+	color: #000000;
+}
+.small-quote {
+	font-family: 'Dancing Script', cursive;
+	font-size: 24px;
+	color: #000000;
+}
+.resume-description{	
+	text-align: left;
+	font-family: Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+}
+.resume-links {
+	text-align: left;
+	font-family: Helvetica, sans-serif;
+	font-size: 13px;
+	color: #4169E1;
+}
+.quotes {
+	font-family: 'Dancing Script', cursive;
+	font-size: 75px;
+  	color: #ffffff;
+}
+.header-script {
+	font-family: 'Dancing Script', cursive;
+  	color: #000000;
+}
+
+.photo-grid {
+	float:center;
+	width:100px;
+	height:100px;
+	border-width:5px;
+	border-radius: 20px;  
+	border-color: #ffffff;
+	padding:0px;
+}
+
+.img-left {
+	float: left;
+	padding-right:40px;
+	padding-left:20px;
+}
+.img-right {
+	float: right;
+}
+
+.table-list {
+	text-align:center;
+	padding:1px;
+}
